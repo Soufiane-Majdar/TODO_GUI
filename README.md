@@ -36,6 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- [Twitter](https://twitter.com/SoufianeMajdar)
-- [LinkedIn](https://www.linkedin.com/in/soufiane-majdar/)
-- [Email](mailto:)
+- [LinkedIn](https://www.linkedin.com/in/soufiane-majdar-47613719a/)
+- [Email](mailto:soufiane.majdar@gmail.com)
