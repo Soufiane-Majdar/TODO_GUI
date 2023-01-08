@@ -26,13 +26,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
-- [Java Swing Tutorial](https://www.youtube.com/watch?v=QX4mJxvJzqA)
+
 
 ## Screenshots
 
-![Screenshot 1](https://i.imgur.com/0Z7Z7ZM.png)
-![Screenshot 2](https://i.imgur.com/0Z7Z7ZM.png)
-![Screenshot 3](https://i.imgur.com/0Z7Z7ZM.png)
+![Screenshot 1](https://github.com/Soufiane-Majdar/TODO_GUI/blob/main/todo.png?raw=true)
 
 ## Contact
 
